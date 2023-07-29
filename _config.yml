@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Debajyoti Kar's Homepages"
+title                    : "Debajyoti Kar's Homepage"
 title_separator          : "-"
 name                     : &name "Debajyoti Kar"
 description              : &description "Theoretical Computer Scientist"
